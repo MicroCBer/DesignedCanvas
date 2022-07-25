@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "skia-canvas": "^0.9.30"
+  },
+  "name": "designed-canvas",
+  "version": "1.0.0",
+  "description": "A static UI library to generate static images which provides the ability for some chatbots to offer a beautiful response.",
+  "main": "main.ts",
+  "repository": "https://github.com/MicroCBer/DesignedCanvas",
+  "author": "MicroBlock",
+  "license": "MIT",
+  "private": false
+}
